@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Jon Jordi Salvadó Pérez
-
-🎓 Computer Engineer passionate about technology, development, and innovation.
-
----
+![My Profile Picture](https://github.com/Yoyito3D1/Yoyito3D1/blob/main/Background.png?raw=true)
 
 ## 🔍 About Me
 
