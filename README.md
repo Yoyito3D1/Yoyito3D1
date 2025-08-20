@@ -1,4 +1,4 @@
-![My Profile Picture](https://https://github.com/Yoyito3D1/Yoyito3D1/blob/main/Background_Renewd.jpg?raw=true)
+![My Profile Picture](https://github.com/Yoyito3D1/Yoyito3D1/blob/main/Background.png?raw=true)
 
 ## 🔍 About Me
 
