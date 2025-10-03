@@ -20,7 +20,7 @@
 ## 💼 Highlight Projects
 
 - 📱 **Patinfly** – Android app for smart bike rental using Jetpack Compose and Clean Architecture  
-- 🤖 **AI Training Recommender** – Smart training suggestions based on user profile + gamification  
+- 🤖 **AI Gender Classificator** – Smart training classificator using pandas.  
 - 🧼 **PDF Watermark Remover** – Backend in FastAPI + frontend in React for document cleanup
 
 ---
