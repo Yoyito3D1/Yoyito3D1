@@ -2,10 +2,10 @@
 
 ## 🔍 About Me
 
-- 🧠 Curious mind with a passion for **Artificial Intelligence**, **Web & Mobile Development**, and **Embedded Systems**
-- 🛠️ Always eager to solve problems and create high-impact solutions
-- 🎯 Focused on clean code, good architecture, and user experience
-- 🚀 Lifelong learner, team player, and tech enthusiast
+- Curious mind with a passion for **Artificial Intelligence**, **Web & Mobile Development**, and **Embedded Systems**
+- Always eager to solve problems and create high-impact solutions
+- Focused on clean code, good architecture, and user experience
+- Lifelong learner, team player, and tech enthusiast
 
 ---
 
@@ -19,9 +19,9 @@
 
 ## 💼 Highlight Projects
 
-- 📱 **Patinfly** – Android app for smart bike rental using Jetpack Compose and Clean Architecture  
-- 🤖 **AI Gender Classificator** – Smart training classificator using pandas.  
-- 🧼 **PDF Watermark Remover** – Backend in FastAPI + frontend in React for document cleanup
+- **Patinfly** – Android app for smart bike rental using Jetpack Compose and Clean Architecture  
+- **AI Gender Classificator** – Smart training classificator using pandas.  
+- **PDF Watermark Remover** – Backend in FastAPI + frontend in React for document cleanup
 
 ---
 
