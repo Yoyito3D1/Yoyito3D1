@@ -34,9 +34,9 @@
 
 ## 📫 Contact
 
-- 📧 Email: jonjordi.salvadoperez@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/jon-jordi-salvadó-pérez-0a6419303](https://www.linkedin.com/in/jon-jordi-salvadó-pérez-0a6419303/)  
-- 📱 Phone: +34 654 377 883
+- Email: jonjordi.salvadoperez@gmail.com  
+- LinkedIn: [linkedin.com/in/jon-jordi-salvadó-pérez-0a6419303](https://www.linkedin.com/in/jon-jordi-salvadó-pérez-0a6419303/)  
+- Phone: +34 654 377 883
 
 ---
 
