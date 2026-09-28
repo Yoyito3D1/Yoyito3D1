@@ -5,7 +5,7 @@
 - Curious mind with a passion for **Artificial Intelligence**, **Web & Mobile Development**, and **Embedded Systems**
 - Always eager to solve problems and create high-impact solutions
 - Focused on clean code, good architecture, and user experience
-- Lifelong learner, team player, and tech enthusiast
+- Lifelong learner, team player, and tech enthusiast.
 
 ---
 
