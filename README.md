@@ -1,27 +1,42 @@
 ![My Profile Picture](https://github.com/Yoyito3D1/Yoyito3D1/blob/main/Background_Renewed.png?raw=true)
 
-## 🔍 About Me
+## Hi, I'm Jon Jordi 👋
 
-- Curious mind with a passion for **Artificial Intelligence**, **Web & Mobile Development**, and **Embedded Systems**
-- Always eager to solve problems and create high-impact solutions
-- Focused on clean code, good architecture, and user experience
-- Lifelong learner, team player, and tech enthusiast.
+I build **AI agents, automations and data pipelines** that take repetitive work off people's plates.
+Computer Science graduate from Universitat Rovira i Virgili, based in Tarragona, Spain.
 
----
-
-## 🛠️ Tech Stack
-
-- **Languages**: Python · Java · Kotlin · C  
-- **Frameworks**: FastAPI · React · Jetpack Compose  
-- **Tools**: Git · Linux · PostgreSQL · Room · Retrofit
+- 🤖 **Now:** automation, API integrations, AI agents and data pipelines in JavaScript/Node.js at **Parrot Partners**
+- 🔐 **Cisco CyberOps Associate**; hackathons in AI (URV × T-Systems 2026) and cybersecurity (Stronghold PI 2025)
+- 🎯 **Most interested in:** AI, automation and full-stack engineering
 
 ---
 
-## 💼 Highlight Projects
+## 🚀 Featured projects
 
-- **Patinfly** – Android app for smart bike rental using Jetpack Compose and Clean Architecture  
-- **AI Gender Classificator** – Smart training classificator using pandas.  
-- **PDF Watermark Remover** – Backend in FastAPI + frontend in React for document cleanup
+**🧭 AI Job Agent** · TypeScript · Claude · GitHub Actions · SQLite (Turso)
+Every night it collects tech jobs from 13 sources (company career pages, job boards, Google Jobs), drops reposts, scores the rest against my profile with Claude, and sends the best matches to Telegram with one-tap application kits.
+
+**🖼️ [PDF Watermark Remover](https://github.com/Yoyito3D1/PDF-Watermark-Remover)** · Python · FastAPI · React
+Removes pale watermarks from scanned PDFs: each page is turned into an image, cleaned pixel by pixel, and rebuilt into a clean PDF.
+
+**🚲 [Patinfly](https://github.com/Yoyito3D1/ASM34-Patinfly)** · Kotlin · Jetpack Compose · Room · Retrofit
+Android bike-rental app with real-time availability, rentals and reservations, built with Clean Architecture.
+
+**🌦️ [Distributed weather processing](https://github.com/Yoyito3D1/SD-P1-Distributed-Weather-Data-Processing-System)** · Python · gRPC · RabbitMQ · Redis
+Client-server system comparing direct (gRPC) and publish/subscribe (RabbitMQ) messaging. Its sibling is a [sharded key-value store](https://github.com/Yoyito3D1/SD-P2-Distributed-Sharded-Database-System) with replication and fault tolerance.
+
+**🧠 [Neural network classifier](https://github.com/Yoyito3D1/AI-P3-Neural-Networks)** · Python · Jupyter
+Predicts sex from clinical and demographic data, improved step by step through better preprocessing and architecture.
+
+---
+
+## 🛠️ Tech stack
+
+**Languages:** JavaScript · TypeScript · Python · SQL · Java · Kotlin · C
+**Web & backend:** Node.js · React · FastAPI · REST APIs
+**AI & data:** AI agents · LLM APIs · data pipelines · pandas · NumPy
+**Databases:** PostgreSQL · MySQL · SQLite · Redis
+**Tools:** Git · Docker · Linux · GitHub Actions · n8n
 
 ---
 
