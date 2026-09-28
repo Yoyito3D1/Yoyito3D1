@@ -13,9 +13,6 @@ Computer Science graduate from Universitat Rovira i Virgili, based in Tarragona,
 
 ## 🚀 Featured projects
 
-**🧭 AI Job Agent** · TypeScript · Claude · GitHub Actions · SQLite (Turso)
-Every night it collects tech jobs from 13 sources (company career pages, job boards, Google Jobs), drops reposts, scores the rest against my profile with Claude, and sends the best matches to Telegram with one-tap application kits.
-
 **🖼️ [PDF Watermark Remover](https://github.com/Yoyito3D1/PDF-Watermark-Remover)** · Python · FastAPI · React
 Removes pale watermarks from scanned PDFs: each page is turned into an image, cleaned pixel by pixel, and rebuilt into a clean PDF.
 
